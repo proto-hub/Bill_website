@@ -147,8 +147,8 @@ export default function BillGenerator() {
                   <tr>
                     <th className="text-left p-4 font-semibold text-gray-700">Description</th>
                     <th className="text-center p-4 font-semibold text-gray-700">QTY</th>
-                    <th className="text-right p-4 font-semibold text-gray-700">Price, INR</th>
-                    <th className="text-right p-4 font-semibold text-gray-700">Amount, INR</th>
+                    <th className="text-right p-4 font-semibold text-gray-700">Listed Price</th>
+                    <th className="text-right p-4 font-semibold text-gray-700">Checkout Price</th>
                   </tr>
                 </thead>
                 <tbody>
